@@ -2,4 +2,10 @@ echo $pwd
 hello
 hai
 how r u
+haii
+hw
+r
+u
+happy birthday
+how about u
 
