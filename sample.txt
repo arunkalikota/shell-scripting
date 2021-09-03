@@ -1,3 +1,4 @@
 #this is is my first shell scrpting
 echo "hello world"
 echo "`date`"
+echo $pwd
